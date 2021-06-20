@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Yony Arley",
+      "email": "arleybri18@gmail.com",
+      "telefono": "3043374247",
+      "empresa": "ccoijns",
+      "id": 1
+    },
+    {
+      "nombre": "Yony Arley",
+      "email": "arleybri18@gmail.com",
+      "telefono": "3043374247",
+      "empresa": "free",
+      "id": 2
+    }
+  ]
+}
